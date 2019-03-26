@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Heart Pulse
 
-You can use the [editor on GitHub](https://github.com/golopupinsky/HeartPulsePage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<img src="heart_1024_3.png" width="400"/>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Most intuitive iOS heart rate tracking app out there
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center">
+<img src="scrn_black_1.PNG" width="270"/>
+<img src="scrn_white_1.PNG" width="270"/>
+<img src="scrn_black_2.PNG" width="270"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+|         | Features  |
+----------|-----------------
+❤️ | Instant BPM display
+📈| HR Waveform Graph
+🕐| Estimated Time passed and left
+🎥| Camera Signal Quality
 
-# Header 1
-## Header 2
-### Header 3
+### Coming Soon
 
-- Bulleted
-- List
+- :suspect: **Tracking pulse of your face**
+- :chart_with_upwards_trend: **HealthKit support**
+- :watch: **Apple Watch support**
+- :gem: **Pro version with history, statuses and no ads**
 
-1. Numbered
-2. List
+### Legal
 
-**Bold** and _Italic_ and `Code` text
+Please consult our [Terms of usage](https://golopupinsky.github.io/General-Terms/) and [Privacy Policy](https://golopupinsky.github.io/General-Privacy/) for more information on app usage details. Don't hesitate to [contact us](mailto:golopupinsky@gmail.com).
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/golopupinsky/HeartPulsePage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
