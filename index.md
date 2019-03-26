@@ -22,6 +22,4 @@
 
 ### Legal
 
-Please consult our [Terms of usage](https://golopupinsky.github.io/General-Terms/) and [Privacy Policy](https://golopupinsky.github.io/General-Privacy/) for more information on app usage details. Don't hesitate to [contact us](mailto:golopupinsky@gmail.com).
-
-
+Please consult our [Terms of usage](https://golopupinsky.github.io/General-Terms/) and [Privacy Policy](https://golopupinsky.github.io/General-Privacy/) for more information on app usage details. Don't hesitate to [contact us](mailto:golopupinsky@gmail.com) if you need help.
