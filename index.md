@@ -1,9 +1,4 @@
-## Heart Pulse
-
-<p align="center">
-<img src="heart_1024_3.png" width="400"/>
-</p>
-
+# Heart Pulse
 
 ### Most intuitive iOS heart rate tracking app out there
 
