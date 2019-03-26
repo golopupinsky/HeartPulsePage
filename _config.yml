@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Heart Pulse for iOS
 logo: "heart_1024_3.png"
 show_downloads: false
+plugins:
+  - jemoji
