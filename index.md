@@ -9,8 +9,6 @@
 
 <p align="center">
 <img src="scrn_black_1.PNG" width="270"/>
-<img src="scrn_white_1.PNG" width="270"/>
-<img src="scrn_black_2.PNG" width="270"/>
 </p>
 
 |         | Features  |
